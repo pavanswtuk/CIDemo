@@ -1,2 +1,2 @@
 # CIDemo
-sample demo for continues intgration
+sample demo for continues intgration test
