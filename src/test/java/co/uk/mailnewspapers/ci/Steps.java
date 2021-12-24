@@ -16,7 +16,7 @@ public class Steps {
     }
     @Then("user should see Products page")
     public void user_should_see_products_page() {
-        System.out.println("user should see Products page");
+        System.out.println("user should see Products page commit");
     }
 
 }
